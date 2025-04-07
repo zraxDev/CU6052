@@ -394,7 +394,7 @@ GameObject:
   - component: {fileID: 1099776542}
   - component: {fileID: 1099776541}
   m_Layer: 0
-  m_Name: LPlayer
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -670,7 +670,7 @@ GameObject:
   - component: {fileID: 2131624865}
   - component: {fileID: 2131624864}
   m_Layer: 0
-  m_Name: RPlayer
+  m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
